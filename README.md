@@ -1,13 +1,12 @@
 <h1 align="center">Culturama</h1>
 
 <p align="center">
-Projeto da escola Alura com foco em HTML e CSS e enfoque em tela responsiva
+Projeto da escola Alura com foco em HTML e CSS com enfoque em tela responsiva.
 </p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -28,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Navegue pelo mundo culturama 
+Navegue pelo mundo culturama.
 
 ## :memo: Licença
 
